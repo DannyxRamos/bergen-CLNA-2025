@@ -16,7 +16,7 @@ The presentation aimed to:
 
 ---
 
-## 📊 Presentation Sample: Postsecondary Indicators
+##  Presentation Sample: Postsecondary Indicators
 
 Included in this repository is a short slide deck used during the stakeholder meeting to explain **Perkins V Postsecondary Core Indicators**.  
 It outlines how performance is calculated for indicators such as:
