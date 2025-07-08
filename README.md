@@ -14,8 +14,30 @@ The presentation aimed to:
 - Brought forward ideas from Ohio’s CLNA guidebook and stakeholder engagement model to enhance Bergen’s approach
 - Helped document stakeholder input for inclusion in the CLNA report and Perkins V application
 
-## Reference material
-- *CLNA-Guidebook-October-2023-HeartofitAll.pdf* — Ohio’s CLNA guidebook that informed our stakeholder engagement strategy (shared at the NACTEI conference)
+---
+
+## 📊 Presentation Sample: Postsecondary Indicators
+
+Included in this repository is a short slide deck used during the stakeholder meeting to explain **Perkins V Postsecondary Core Indicators**.  
+It outlines how performance is calculated for indicators such as:
+
+- **1P1 – Postsecondary Placement**
+- **2P1 – Earned Recognized Postsecondary Credential**
+- **3P1 – Non-traditional Program Concentration**
+
+📎 [View slides → `PerkinsV_Postsecondary_Indicators_Slides.pdf`](./PerkinsV_Postsecondary_Indicators_Slides.pdf)
+
+> *Note: Data in the slides is fictional and used solely for demonstration purposes.*
+
+---
+
+## Reference Material
+
+📄 [CLNA Guidebook – Ohio (October 2023)](./CLNA-Guidebook-October-2023-HeartofitAll.pdf)
+
+This guidebook, shared during the 2025 NACTEI Conference, informed many of the stakeholder engagement strategies presented during Bergen’s CLNA process.
+
+---
 
 ## Notes
-- Due to confidentiality, presentation materials and stakeholder input are not shared in this repository.
+- Due to confidentiality, original presentation materials and stakeholder input are not shared in this repository.
